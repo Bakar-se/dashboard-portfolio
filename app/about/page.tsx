@@ -8,7 +8,7 @@ const About = () => {
       </h1>
       <div className="mt-4">
         <p className=" leading-7 [&:not(:first-child)]:mt-6">
-          Hello! I'm Muhammad Abu Bakar, a passionate software engineer and
+          Hello! I&apos;m Muhammad Abu Bakar, a passionate software engineer and
           dedicated Next.js developer. With a robust set of skills in both
           front-end and back-end development, I strive to be recognized as a
           versatile and accomplished engineer. My expertise spans HTML, CSS,
@@ -64,7 +64,7 @@ const About = () => {
         <ul className="my-6 ml-6 list-disc [&>li]:mt-2">
           <div className="my-8">
             <li className="font-semibold">
-              Bachelor’s Degree in Software Engineering (2018 - 2022)
+              Bachelor&apos;s Degree in Software Engineering (2018 - 2022)
             </li>
             <p className=" leading-7 [&:not(:first-child)]:mt-3 ml-3 flex justify-between items-center">
               From: University of Gujrat <span>GPA: 3.08/4.0</span>
